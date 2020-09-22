@@ -103,4 +103,4 @@ $ make docs
 
 * `Note`: For heroku, the callback URL should be http
 
-Made with :love: by Sheryl
+Made with :heart: by Sheryl
