@@ -1,0 +1,9 @@
+.env
+analyzed.log
+cloned
+analyzed
+venv
+*.pyc
+__pycache__
+.vscode
+*.rdb
